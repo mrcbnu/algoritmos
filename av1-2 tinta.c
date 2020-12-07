@@ -1,3 +1,14 @@
+// TADS Uniavan 
+// Disciplina: Algoritmo I
+// Autor: Márcio Alves
+
+// Escreva um programa que receba as medidas (comprimento, largura e altura) de uma caixa retangular, 
+// o valor da lata de tinta e o rendimento de cada lata (em cm2) e informe:
+
+// a) quantidade total de tinta necessária para pintar a parte interna da caixa, bem como o valor gasto;
+// b) quantidade total de tinta necessária para pintar a parte externa da caixa, bem como o valor gasto;
+// c) quantidade total de tinta necessária para pintar toda a caixa, bem como o valor gasto.
+
 #include <stdio.h>
 #include <locale.h>
 int main() 

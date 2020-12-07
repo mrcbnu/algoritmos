@@ -1,3 +1,10 @@
+// TADS Uniavan 
+// Disciplina: Algoritmo I
+// Autor: Márcio Alves
+
+// Faça um programa que lê os conteúdos de dois vetores de 10 posições contendo números inteiros ordenados (já os receba // ordenados – apenas teste isso antes de resolver o problema a seguir) e encontra a união (conjuntos) destes dois
+// vetores usando, necessariamente, uma função para isso.
+
 #include <stdio.h>
 #include <locale.h>
 

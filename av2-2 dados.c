@@ -1,3 +1,15 @@
+// TADS Uniavan 
+// Disciplina: Algoritmo I
+// Autor: Márcio Alves
+
+// Faça um programa que solicite ao usuário, enquanto ele desejar, o resultado de um dado que foi lançado por ele.    
+// Ao final, seu programa deve:
+
+// a) Informar o número total de lançamentos;
+// b) Calcular e mostrar a média dos lançamentos;
+// c) Informar para cada um dos possíveis resultados (1,2,3,4,5 e 6), quantas vezes ele aparece e qual a porcentagem    
+// que essa quantidade representa do total.
+
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>

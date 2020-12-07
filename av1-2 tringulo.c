@@ -1,3 +1,8 @@
+// TADS Uniavan 
+// Disciplina: Algoritmo I
+// Autor: Márcio Alves
+// Escreva um programa que leia os dois lados de um triângulo retângulo e, através do Teorema de Pitágoras, calcula o valor do terceiro dos lados.
+
 #include <stdio.h> // biblioteca padrão 
 #include <math.h> // biblioteca matematica
 
